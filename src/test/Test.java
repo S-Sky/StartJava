@@ -6,5 +6,4 @@ public class Test {
 		System.out.println("Hello word");
 		System.out.println("测试中文是否乱码");
 	}
-
 }
